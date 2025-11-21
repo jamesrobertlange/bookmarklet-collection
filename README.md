@@ -25,6 +25,10 @@ This repository contains a collection of useful bookmarklets for web development
 9.  **Jump Links to Console**: Identifies and validates all jump links (anchor links) on the page.
 10. **Schema to TXT**: Extracts JSON-LD and Microdata schema information from the page.
 11. **Tag Checker**: Checks for various tags and scripts, with a focus on Botify-related elements.
+12. **Homebox Underscore**: Exports all homebox images and separates spaces with underscores.
+13. **Extract Images Markdown**: Exports images and markdown from websites.
+14. **Read Comics Links**: This exports all image links on readcomics.
+15. **Article to Epub**: This exports an article to an epub file.
 
 ## Usage
 

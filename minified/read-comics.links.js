@@ -1,0 +1,1 @@
+javascript:(function(){var r=document.evaluate("//img/@src[contains(.,'blogspot')]",document,null,XPathResult.UNORDERED_NODE_SNAPSHOT_TYPE,null);var urls=[];for(var i=0;i<r.snapshotLength;i++){urls.push(r.snapshotItem(i).value);}navigator.clipboard.writeText(urls.join('\n'));alert('Copied '+urls.length+' URLs');})();
